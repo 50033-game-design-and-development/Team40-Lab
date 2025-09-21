@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4264499704730142260}
   - component: {fileID: 1625950667026592848}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: Coin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -98,10 +98,10 @@ GameObject:
   - component: {fileID: 8941713989257082860}
   - component: {fileID: 6819592415547588282}
   - component: {fileID: 6319413743109684252}
-  - component: {fileID: 8393000852912416576}
   - component: {fileID: 7852930284723264618}
   - component: {fileID: 6974070123182993068}
-  m_Layer: 7
+  - component: {fileID: 4424359295690194786}
+  m_Layer: 6
   m_Name: Brick
   m_TagString: Obstacles
   m_Icon: {fileID: 0}
@@ -167,7 +167,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300026, guid: 82bc45c4496284f4c823d1b837f65ec4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -225,28 +225,6 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 1, y: 1}
   m_EdgeRadius: 0
---- !u!95 &8393000852912416576
-Animator:
-  serializedVersion: 7
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7041516697144348925}
-  m_Enabled: 1
-  m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: b777c408c25db83419c81382440f596e, type: 2}
-  m_CullingMode: 0
-  m_UpdateMode: 0
-  m_ApplyRootMotion: 0
-  m_LinearVelocityBlending: 0
-  m_StabilizeFeet: 0
-  m_AnimatePhysics: 0
-  m_WarningMessage: 
-  m_HasTransformHierarchy: 1
-  m_AllowConstantClipSamplingOptimization: 1
-  m_KeepAnimatorStateOnDisable: 0
-  m_WriteDefaultValuesOnDisable: 0
 --- !u!114 &7852930284723264618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -259,7 +237,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 49321b3f8bb561f4d91afa693b05f817, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  animator: {fileID: 8393000852912416576}
+  animator: {fileID: 0}
+  hasCoin: 1
   coinCollectSound: {fileID: 6974070123182993068}
 --- !u!82 &6974070123182993068
 AudioSource:
@@ -358,3 +337,25 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!95 &4424359295690194786
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7041516697144348925}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: b777c408c25db83419c81382440f596e, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0

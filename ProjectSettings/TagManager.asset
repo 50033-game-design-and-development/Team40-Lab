@@ -6,7 +6,8 @@ TagManager:
   tags:
   - Ground
   - Background
-  - Enemy
+  - Obstacles
+  - Enemies
   layers:
   - Default
   - TransparentFX
@@ -14,8 +15,8 @@ TagManager:
   - Ground
   - Water
   - UI
-  - 
-  - 
+  - Obstacles
+  - Enemies
   - 
   - 
   - 

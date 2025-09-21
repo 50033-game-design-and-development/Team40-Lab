@@ -3,6 +3,7 @@ using UnityEngine;
 public class QuestionBlock : MonoBehaviour
 {
     public Animator animator;
+    private bool onHitState = false;
 
     void Start()
     {
@@ -18,6 +19,8 @@ public class QuestionBlock : MonoBehaviour
             if (contact.normal.y > 0.5f)
             {
                 animator.SetTrigger("onHit");
+                animator.SetBool("hitStatus", true);
+                onHitState = true;
                 // Spawn item, play sound, etc.
                 break;
             }
@@ -29,5 +32,12 @@ public class QuestionBlock : MonoBehaviour
     void PlayCoinCollectSound()
     {
         coinCollectSound.PlayOneShot(coinCollectSound.clip);
+    }
+
+    public void ResetBlock()
+    {
+        onHitState = false;
+        animator.ResetTrigger("onHit");
+        animator.SetBool("hitStatus", false);
     }
 }

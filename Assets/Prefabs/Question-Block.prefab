@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7949438118170762976}
   - component: {fileID: 3870402458980681668}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: Coin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,7 +101,7 @@ GameObject:
   - component: {fileID: 4186433424729519054}
   - component: {fileID: 6799460192223562858}
   - component: {fileID: 3508981664767390702}
-  m_Layer: 7
+  m_Layer: 6
   m_Name: Question-Block
   m_TagString: Obstacles
   m_Icon: {fileID: 0}
@@ -167,7 +167,7 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_Sprite: {fileID: 21300160, guid: 82bc45c4496284f4c823d1b837f65ec4, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0

@@ -5,12 +5,14 @@ public class BrickBlock : MonoBehaviour
     public Animator animator;
     public bool hasCoin = true;
 
+    private bool initialHasCoinValue;
     void Start()
     {
         if (animator == null)
             animator = GetComponent<Animator>();
 
         animator.SetBool("hasCoin", hasCoin);
+        initialHasCoinValue = hasCoin;
     }
 
     void OnCollisionEnter2D(Collision2D collision)
@@ -27,19 +29,26 @@ public class BrickBlock : MonoBehaviour
         }
     }
 
-    public void OnCoinAnimationEnd() {
+    public void OnCoinAnimationEnd()
+    {
         if (hasCoin)
         {
             hasCoin = false;
             animator.SetBool("hasCoin", false);
         }
     }
-    
+
 
     public AudioSource coinCollectSound;
 
     void PlayCoinCollectSound()
     {
         coinCollectSound.PlayOneShot(coinCollectSound.clip);
+    }
+
+    public void ResetBlock()
+    {
+        animator.SetBool("hasCoin", initialHasCoinValue);
+        animator.ResetTrigger("onHit");
     }
 }

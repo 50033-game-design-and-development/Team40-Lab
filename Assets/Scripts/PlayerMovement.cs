@@ -170,6 +170,15 @@ public class PlayerMovement : MonoBehaviour
         //reset animation
         marioAnimator.SetTrigger("gameRestart");
         alive = true;
+
+        foreach (var block in UnityEngine.Object.FindObjectsByType<QuestionBlock>(FindObjectsSortMode.None))
+        {
+            block.ResetBlock();
+        }
+        foreach (var block in UnityEngine.Object.FindObjectsByType<BrickBlock>(FindObjectsSortMode.None))
+        {
+            block.ResetBlock();
+        }
     }
 
     //animators
