@@ -2551,6 +2551,11 @@ Transform:
   - {fileID: 487369194}
   m_Father: {fileID: 616612254}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1277363592 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7145267892841992543, guid: 3f785cb78727458468d4a1e9f3e3242c, type: 3}
+  m_PrefabInstance: {fileID: 334176521}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1296524817
 GameObject:
   m_ObjectHideFlags: 0
@@ -2762,7 +2767,7 @@ MonoBehaviour:
   scoreTexts:
   - {fileID: 653346527}
   - {fileID: 1141883556}
-  enemies: {fileID: 242063144}
+  enemies: {fileID: 1277363592}
   gameOverUI: {fileID: 1587356604}
   gameUI: {fileID: 1804494284}
   mainCamera: {fileID: 519420031}
@@ -2929,7 +2934,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31219f71bcc0506438dfb8c9a625543e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  enemyLocation: {fileID: 242063145}
+  enemyLocation: {fileID: 1304220067}
   scoreTexts:
   - {fileID: 653346527}
   - {fileID: 1141883556}
