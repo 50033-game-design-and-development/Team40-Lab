@@ -1,41 +1,76 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class GameManager : MonoBehaviour
 {
-    public static GameManager Instance;
+    // events
+    public UnityEvent gameStart;
+    public UnityEvent gameRestart;
+    public UnityEvent<int> scoreChange;
+    public UnityEvent gameOver;
 
-    public int deathCount = 0;
+    [Header("Goomba Spawn Settings")]
+    public GameObject goombaPrefab;
+    public Transform spawnPoint;
+    private GameObject currentGoomba;
 
-    public GameObject throwerPrefab;
-    public Transform throwerSpawnPoint;
-    public Transform[] throwerPath;
-    public bool throwerSpawned = false;
-    public Transform marioTransform;
+    private int score = 0;
 
-    void Awake()
+    void Start()
     {
-        if (Instance == null) { Instance = this; DontDestroyOnLoad(gameObject); }
-        else Destroy(gameObject);
+        SpawnGoomba();
+        gameStart.Invoke();
+        Time.timeScale = 1.0f;
+    }
+    void Update()
+    {
+
     }
 
-    public void RegisterDeath()
+    public void GameRestart()
     {
-        deathCount++;
+        Time.timeScale = 1.0f;
+        // reset score
+        score = 0;
+        SetScore(score);
+
+        // respawn Goomba
+        if (currentGoomba != null)
+            Destroy(currentGoomba);
+        SpawnGoomba();
+
+        gameRestart.Invoke();
+
     }
 
-    public void TrySpawnThrower()
+    public void IncreaseScore(int increment)
     {
-        if (deathCount >= 3 && !throwerSpawned && throwerPrefab && throwerSpawnPoint)
+        score += increment;
+        SetScore(score);
+    }
+
+    public void SetScore(int score)
+    {
+        scoreChange.Invoke(score);
+    }
+
+
+    public void GameOver()
+    {
+        Time.timeScale = 0.0f;
+        gameOver.Invoke();
+    }
+
+    private void SpawnGoomba()
+    {
+        if (goombaPrefab != null && spawnPoint != null)
         {
-            deathCount = 0;
-            // spawn thrower
-            var go = Instantiate(throwerPrefab, marioTransform.position + Vector3.up * 4f, Quaternion.identity);
-            // var mover = go.GetComponent<PathMover>();
-            go.GetComponent<FollowShoot>().target = marioTransform;
-            // if (mover != null) mover.waypoints = throwerPath;
-            throwerSpawned = true;
+            currentGoomba = Instantiate(goombaPrefab, spawnPoint.position, spawnPoint.rotation);
+
+            var evt = currentGoomba.GetComponent<AnimationEventIntTool>();
+            if (evt != null) evt.useInt.AddListener(IncreaseScore);
         }
-
-
     }
 }
