@@ -6,7 +6,6 @@ public class QuestionBoxManager : MonoBehaviour
     public Animator boxAnimator;
     public Animator coinAnimator;
     public AudioSource audioSource;
-    public AudioClip coinSound;
 
     Rigidbody2D rb;
     SpringJoint2D boxSpring;
@@ -40,14 +39,17 @@ public class QuestionBoxManager : MonoBehaviour
 
                         if (coinAnimator)
                             coinAnimator.SetTrigger("popCoin");
-
-                        // play sound
-                        if (audioSource && coinSound)
-                            audioSource.PlayOneShot(coinSound);
+                        playSound();
                     }
                 }
             }
         }
+    }
+
+    void playSound()
+    {
+        if (audioSource)
+            audioSource.Play();
     }
 
     void Update()

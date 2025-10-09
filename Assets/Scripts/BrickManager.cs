@@ -6,7 +6,6 @@ public class BrickManager : MonoBehaviour
     public Animator coinAnimator;
     public Animator boxAnimator;
     public AudioSource audioSource;
-    public AudioClip coinSound;
 
     [Header("Bounce Tuning")]
     public float bounceImpulse = 10f;
@@ -49,14 +48,19 @@ public class BrickManager : MonoBehaviour
                     if (coinAnimator)
                         coinAnimator.SetTrigger("popCoin");
 
-                    if (audioSource && coinSound)
-                        audioSource.PlayOneShot(coinSound);
+                    playSound();
                 }
 
 
                 break;
             }
         }
+    }
+
+    void playSound()
+    {
+        if (audioSource)
+            audioSource.Play();
     }
 
     void Update()
