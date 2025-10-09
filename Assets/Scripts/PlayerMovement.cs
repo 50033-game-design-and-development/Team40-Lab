@@ -164,13 +164,9 @@ public class PlayerMovement : MonoBehaviour
         if (hit.collider != null)
         {
             Debug.Log("Stomped an enemy");
-            var enemy = hit.collider.GetComponentInParent<EnemyMovement>();
-            if (enemy != null && !enemy.IsStomped())
-            {
-                enemy.Stomp();
-                Bounce(stompBounceImpulse);
-                StartCoroutine(StompGracePeriod());
-            }
+            GameEvents.RaiseStompDetected(hit.collider);
+            Bounce(stompBounceImpulse);
+            StartCoroutine(StompGracePeriod());
         }
     }
 
@@ -237,7 +233,6 @@ public class PlayerMovement : MonoBehaviour
 
     void OnDrawGizmosSelected()
     {
-        // visualize the stomp box in the editor
         if (!Application.isPlaying) return;
         if (!GetComponent<Collider2D>()) return;
 
@@ -251,10 +246,5 @@ public class PlayerMovement : MonoBehaviour
     {
         marioBody.AddForce(Vector2.up * deathImpulse, ForceMode2D.Impulse);
     }
-
-
-
-
-
 
 }
