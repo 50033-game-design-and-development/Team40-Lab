@@ -8,11 +8,19 @@ public class AnimationEventIntTool : MonoBehaviour
     public int parameter;
     public UnityEvent<int> useInt;
 
+    void Awake()
+    {
+        var gm = FindFirstObjectByType<GameManager>();
+        useInt.RemoveAllListeners();
+        if (gm) useInt.AddListener(gm.IncreaseScore);
+
+    }
+
 
     public void TriggerIntEvent()
     {
         Debug.Log("TriggerIntEvent: " + parameter);
-        useInt.Invoke(parameter); // safe to invoke even without callbacks
+        useInt.Invoke(parameter);
 
     }
 }

@@ -4,7 +4,7 @@ public class FollowPlayer : MonoBehaviour
 {
     public GameObject player;      // Mario 
     public GameObject platform;
-    public float yOffset = 0f;        // lock camera Y
+    public float yOffset = -3f;        // lock camera Y
     public float zOffset = -10f;      // keep camera behind
     public float smoothSpeed = 0.125f;
 

@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Rendering;
 
 public class EnemyMovement : MonoBehaviour
 {
@@ -15,13 +16,37 @@ public class EnemyMovement : MonoBehaviour
     private Vector2 velocity;
     private Rigidbody2D enemyBody;
     public Vector3 startPosition = new Vector3(10.0f, 0.0f, 0.0f);
+    private AudioSource sfx;
 
     private bool isStomped = false;
     public bool IsStomped() => isStomped;
+
+
+
+    private void OnEnable()
+    {
+        GameEvents.OnStompDetected += HandleStompDetected;
+    }
+
+    private void OnDisable()
+    {
+        GameEvents.OnStompDetected -= HandleStompDetected;
+    }
+
+    private void HandleStompDetected(Collider2D stompedCollider)
+    {
+        if (isStomped) return;
+
+        if (stompedCollider != null && stompedCollider.transform.IsChildOf(transform))
+        {
+            Stomp();
+        }
+    }
+
     void Start()
     {
         enemyBody = GetComponent<Rigidbody2D>();
-        // get the starting position
+        sfx = GetComponent<AudioSource>();
         originalX = transform.position.x;
         ComputeVelocity();
     }
@@ -31,18 +56,18 @@ public class EnemyMovement : MonoBehaviour
     }
     void Movegoomba()
     {
+        if (isStomped) return;
         enemyBody.MovePosition(enemyBody.position + velocity * Time.fixedDeltaTime);
     }
 
-    void Update()
+    void FixedUpdate()
     {
         if (Mathf.Abs(enemyBody.position.x - originalX) < maxOffset)
-        {// move goomba
+        {
             Movegoomba();
         }
         else
         {
-            // change direction
             moveRight *= -1;
             ComputeVelocity();
             Movegoomba();
@@ -53,33 +78,17 @@ public class EnemyMovement : MonoBehaviour
     {
         if (isStomped) return;
         isStomped = true;
-        if (enemyBody)
-        {
-            enemyBody.linearVelocity = Vector2.zero;
-            enemyBody.constraints = RigidbodyConstraints2D.FreezeAll; //jank way to stop movement
-        }
+
+        sfx.PlayOneShot(sfx.clip);
+
         foreach (var col in GetComponentsInChildren<Collider2D>())
             col.enabled = false;
+
+        GameEvents.RaiseEnemyStomped(1);
+
         animator.SetTrigger("onStomp");
-        //gameObject.layer = LayerMask.NameToLayer("DeadEnemy"); //change layer to not have collision with player
         Destroy(gameObject, 0.7f);
     }
-
-    // public void Stomp() //Player facing collider
-    // {
-    //     if (isStomped) return;
-    //     isStomped = true;
-
-    //     if (enemyBody) enemyBody.linearVelocity = Vector2.zero;
-    //     animator.SetTrigger("onStomp");
-
-    //     // Disable only the collider that interacts with the player
-    //     Collider2D hitbox = GetComponent<Collider2D>();
-    //     if (hitbox != null) hitbox.enabled = false;
-
-    //     // Keep a ground collider (like a BoxCollider2D on child object)
-    //     Destroy(gameObject, 0.7f);
-    // }
 
 
     public void GameRestart()
