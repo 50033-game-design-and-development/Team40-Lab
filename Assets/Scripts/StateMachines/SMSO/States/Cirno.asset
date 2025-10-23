@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559a180b1777fdd4b80f699fdedbe089, type: 3}
+  m_Name: Cirno
+  m_EditorClassIdentifier: Assembly-CSharp::State
+  setupActions:
+  - {fileID: 11400000, guid: 0ed289e1ce2af054da5a965679aa08ab, type: 2}
+  - {fileID: 11400000, guid: 86a7fd14d81bea24d9c753c7327148cb, type: 2}
+  - {fileID: 11400000, guid: 7b99f923284bb7b4c92376edbe97f634, type: 2}
+  actions: []
+  eventTriggeredActions: []
+  exitActions: []
+  transitions:
+  - decision: {fileID: 11400000, guid: 5aba9866d5b450e43ba3bdaed864f265, type: 2}
+    trueState: {fileID: 11400000, guid: 7b84259321bc3e3449651f8af8b74e29, type: 2}
+    falseState: {fileID: 11400000, guid: b3ae18cf286e777478386b1ad02d4653, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

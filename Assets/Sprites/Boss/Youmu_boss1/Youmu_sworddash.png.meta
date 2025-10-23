@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: dcf485079b1252846bb23161eb448505
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8944437629195848030
+    second: Youmu_sworddash_0
+  - first:
+      213: 7424048676017562686
+    second: Youmu_sworddash_1
+  - first:
+      213: -8671539007918324508
+    second: Youmu_sworddash_2
+  - first:
+      213: -7479858670758576219
+    second: Youmu_sworddash_3
+  - first:
+      213: -3370368550235750405
+    second: Youmu_sworddash_4
+  - first:
+      213: -5891187524147152254
+    second: Youmu_sworddash_5
+  - first:
+      213: 8357014459937069230
+    second: Youmu_sworddash_6
+  - first:
+      213: -8131797095502729095
+    second: Youmu_sworddash_7
+  - first:
+      213: -6967945037615321959
+    second: Youmu_sworddash_8
+  - first:
+      213: -7579198451414236938
+    second: Youmu_sworddash_9
+  - first:
+      213: 5391522581969926858
+    second: Youmu_sworddash_10
+  - first:
+      213: -3343983025730296819
+    second: Youmu_sworddash_11
+  - first:
+      213: -6112773523092124800
+    second: Youmu_sworddash_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Youmu_sworddash_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 116
+        height: 81
+      alignment: 9
+      pivot: {x: 0.43103448, y: 0.49382716}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e590bd352a6012c70800000000000000
+      internalID: 8944437629195848030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 95
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e346c31cfe4870760800000000000000
+      internalID: 7424048676017562686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_2
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 0
+        width: 86
+        height: 73
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4c511573188a780800000000000000
+      internalID: -8671539007918324508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 1
+        width: 86
+        height: 69
+      alignment: 9
+      pivot: {x: 0.5813953, y: 0.5797101}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af3f4f3b24323890800000000000000
+      internalID: -7479858670758576219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_4
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 0
+        width: 67
+        height: 75
+      alignment: 9
+      pivot: {x: 0.74626863, y: 0.53333336}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bffbc0919ab0a31d0800000000000000
+      internalID: -3370368550235750405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_5
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 0
+        width: 61
+        height: 76
+      alignment: 9
+      pivot: {x: 0.8196721, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28afefdd82c4e3ea0800000000000000
+      internalID: -5891187524147152254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 0
+        width: 93
+        height: 65
+      alignment: 9
+      pivot: {x: 0.53763443, y: 0.61538464}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea81a5bbf541af370800000000000000
+      internalID: 8357014459937069230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 0
+        width: 129
+        height: 59
+      alignment: 9
+      pivot: {x: 0.3875969, y: 0.6779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970b10130ad062f80800000000000000
+      internalID: -8131797095502729095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_8
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 0
+        width: 119
+        height: 59
+      alignment: 9
+      pivot: {x: 0.42016807, y: 0.6779661}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c2e72f7e2ec4f90800000000000000
+      internalID: -6967945037615321959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_9
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 0
+        width: 78
+        height: 97
+      alignment: 9
+      pivot: {x: 0.64102566, y: 0.41237113}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f0834d2a2741d690800000000000000
+      internalID: -7579198451414236938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_10
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1
+        width: 88
+        height: 94
+      alignment: 9
+      pivot: {x: 0.5681818, y: 0.42553192}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca70d8093982da40800000000000000
+      internalID: 5391522581969926858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_11
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 0
+        width: 85
+        height: 77
+      alignment: 9
+      pivot: {x: 0.5882353, y: 0.5194805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04e860c729c791d0800000000000000
+      internalID: -3343983025730296819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_sworddash_12
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 0
+        width: 71
+        height: 79
+      alignment: 9
+      pivot: {x: 0.70422536, y: 0.5063291}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b4eab1ed01b2ba0800000000000000
+      internalID: -6112773523092124800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: aba99885ea9ea0c4788e102e1841cb1b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Youmu_sworddash_0: 8944437629195848030
+      Youmu_sworddash_1: 7424048676017562686
+      Youmu_sworddash_10: 5391522581969926858
+      Youmu_sworddash_11: -3343983025730296819
+      Youmu_sworddash_12: -6112773523092124800
+      Youmu_sworddash_2: -8671539007918324508
+      Youmu_sworddash_3: -7479858670758576219
+      Youmu_sworddash_4: -3370368550235750405
+      Youmu_sworddash_5: -5891187524147152254
+      Youmu_sworddash_6: 8357014459937069230
+      Youmu_sworddash_7: -8131797095502729095
+      Youmu_sworddash_8: -6967945037615321959
+      Youmu_sworddash_9: -7579198451414236938
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,7136 @@
+fileFormatVersion: 2
+guid: 37c7a35c835a0ec41bd748709122cb7c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4416917254981227862
+    second: Yuyuko Sprite Sheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Yuyuko_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4138
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655137177da0c4d30800000000000000
+      internalID: 4416917254981227862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 4138
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953be1eda9fe8c247bd5e88c60143e25
+      internalID: 254637522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 4138
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f3c734214b33d4ca653a1c25f81d8a
+      internalID: -1350053987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 4138
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04c7ff7c00dd994fb93c182c484402d
+      internalID: -117446284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 4138
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42baad5d6982ba9448a79dec09dc29ca
+      internalID: -104952874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 4138
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070bf6d5e75a5094fb6e4c780a550fe9
+      internalID: 1956880661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 4138
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912989167d457b84a83b77cc05970788
+      internalID: -2010490448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 4138
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422e0e1acb098c740ba8755fff01ce2d
+      internalID: -998972313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 4138
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bba7f1aa8675654eb893154adba229f
+      internalID: 470651078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4138
+        width: 55
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01e39d5a71b879542afa0cff018d5117
+      internalID: -374357387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Sit_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 4008
+        width: 54
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81507d29a37f619409411f101b2ebefe
+      internalID: 896293043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Sit_2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 4008
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266341a342fbdcc4b943dd0dd691767c
+      internalID: 1917851092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Sit_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 4008
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5534342a7bee69d49aeef665ba8f00e1
+      internalID: -2017614352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Sit_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 4008
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c110f438ba2b6de41ab8f44377c2f039
+      internalID: 1086381701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Sit_5
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 4008
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0323a6026f502a459083c730f7a63d8
+      internalID: -525256025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Sit_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 4008
+        width: 62
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0670532bdc3c99d46b7cb09919f8be47
+      internalID: 797269346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Sit_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 4008
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48f3d58da5f2d44b9eee5865c0afd14
+      internalID: -2118550883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Sit_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 4008
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27ea1d2c791f6b40b2155b62dc4f32d
+      internalID: 1559601336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkBack_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3878
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f74f047cf0776b488d762eb7ba8326b
+      internalID: -1655149876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkBack_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3878
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b721fa25ed45c046bb9308f045ee0a7
+      internalID: -937260930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkBack_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3878
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1b8d6ace5942f48b1b73a4f48b2baf
+      internalID: -2046723430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkBack_4
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3878
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfb03578e4afe5140b69ebb7ed13f306
+      internalID: 1588413180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkBack_5
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3878
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33ea08cb426c2c54191da965a9c860ca
+      internalID: -985225644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkBack_6
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 3877
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b425540f33705945a451e90b5cccda7
+      internalID: 1741707347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkBack_7
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3878
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2826b77b32c94ad49bd92484c06f80fd
+      internalID: 839613600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkBack_8
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3878
+        width: 63
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5429a99220411aa4a9c3e6cc033a201b
+      internalID: -732838743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkForward_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3748
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e932e9262b461fb40956adafda205d15
+      internalID: -1798571127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkForward_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3748
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36442aa944759c742a7ee3403aefd2ff
+      internalID: -1824435678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkForward_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3748
+        width: 58
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bff89c673e612442a0ac1259606a4cd
+      internalID: -1726205684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkForward_4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 3748
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 072b2d85397fcfc4eb04dc222b436fda
+      internalID: -1242336105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkForward_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3748
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944b9d09e18931c47b1bd3c85fbfa700
+      internalID: 1313787085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_WalkForward_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 3748
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1aeeeda509a614c9427ed139ee0093
+      internalID: -1817952182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_DashBack_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3619
+        width: 63
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a93a5f20e5289c44bfb6505eda776f8
+      internalID: 1920119143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_DashBack_2
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3618
+        width: 63
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85059654da2bb7043a80c60e343b1e30
+      internalID: 1038432265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_DashBack_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3618
+        width: 65
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f176ca120a9df649a6f27e32a6185c0
+      internalID: 831758606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_DashBack_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 3618
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f45760cfe278242a96d61cf8f19633
+      internalID: 1410383237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3488
+        width: 56
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b79afeab010804384bfe74c1ecf33d
+      internalID: 466520098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3488
+        width: 60
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e37dfa9fb2e7f745a6e9d18b0401c7e
+      internalID: 130608607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3488
+        width: 61
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e398dbd5eacace48bb78f88a8b34b6f
+      internalID: 127295258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 3488
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b7a88bb64a93bf41990d4f4025c4b0f
+      internalID: -340492971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_5
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3488
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccaaa2c7175b3eb4c9ac02d26163568f
+      internalID: -1137942585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_6
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 3488
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029d08a772d948442804ae4cb1136d68
+      internalID: 2078417310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 3488
+        width: 56
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76d21b43b7a5fd4a9cfdca3deda6701
+      internalID: 2046617599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_8
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3488
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7812be700c127aa489e8e9ae2a94444f
+      internalID: 855495737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_9
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3488
+        width: 65
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c352006f29e354d9f803eb68025cea
+      internalID: -1783772069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_10
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 3488
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36d687251179f064988ea6abf26f7c87
+      internalID: 502994564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_11
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3488
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb464e44fab349a4097374a878bb75d3
+      internalID: 1005208779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Jump_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3488
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce8b2f86eeb5e54395e6bf84660bd94
+      internalID: 2056890249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_DashForward_3
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3618
+        width: 73
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f60f666e79d81b4681f45533bc551da
+      internalID: 738216882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_DashForward_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 3618
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f14e42346954b7243a077163c0bc2b5f
+      internalID: -38975882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_DashForwar_3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 3618
+        width: 75
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23ab5789d9263d64c8d49883221bd383
+      internalID: 2088478809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3358
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 219322db39b41fa4685bed4d3ce74060
+      internalID: -1186359420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3358
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dacc69c6eeeac8489c3aaf54b17d67b
+      internalID: -197524582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 3358
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f3a546d6bf4144a428871680398c0
+      internalID: -1081273448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_4
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3358
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46355f09faf74440ae13447c37bfccf
+      internalID: 594540300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_5
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 3358
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1051bfce11fd945b48e52aeecd83f7
+      internalID: -1266827273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_6
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 3358
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ad2b276f0f92b4fa7256e310250539
+      internalID: -1130762554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_7
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3358
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9824cf4e2ecc64fafbc96e358afdfd
+      internalID: 368446119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_8
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 3358
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ed68a7ebf983c4e8f545e03d80763d
+      internalID: 1961799061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA1_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 3358
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebf3f3e37ea4054bb387ce8e657f0d6
+      internalID: 108201221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3228
+        width: 67
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4776700feb51cec4d91ee27d37afb673
+      internalID: 1570159664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 3228
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9017b58502f544784709dac13354cd
+      internalID: 1361538320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3228
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba73e5097cc4cea4b92f3e5f261f4a36
+      internalID: 1845393621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3228
+        width: 71
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91df210e87882745a421baca0cafad5
+      internalID: 87866979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_5
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 3228
+        width: 61
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853880fa3340e9e40afc04df5192752c
+      internalID: 1355138998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_6
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 3228
+        width: 61
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a9539b49662d43b971aecfa2cdf59
+      internalID: 1749671446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_7
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 3228
+        width: 62
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf1c121d5876454a83a9d3e3eeab9d7
+      internalID: -1397211463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_8
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 3228
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8df89662cd00624095e7c957cfe8db0
+      internalID: -473488834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA2_9
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3228
+        width: 66
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e77997e255406479e357d0dd14f568
+      internalID: -444370462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA3_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3098
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca25c72cd360d40bd4e28a3f05a7b6
+      internalID: -154843569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA3_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3098
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94254e44fc490464795911ec0d08b78c
+      internalID: 381513905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA3_3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 3098
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4df2452dea21614e85b24009257f130
+      internalID: 100163966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA3_4
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3098
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642ff03da0cd0c84f9d084d22b7ef3df
+      internalID: 1526099485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA3_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 3098
+        width: 67
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b2ffc1014532c4fa0e9f471efc5ba7
+      internalID: -647307447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA3_6
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 3098
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d5949d9da3c424eb08dfb565ebe45d
+      internalID: 1198301907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA3_7
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3098
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601fa195a4f505849b069410f12e7f7d
+      internalID: 1645702070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA4_1
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 3098
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5792a964676ef449867946b97072c70
+      internalID: -179166583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA4_2
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3098
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf90527bd7e68b142a743fac3923bb64
+      internalID: 919632651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA4_3
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 3098
+        width: 63
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e95293eda55a63e4883464ca6a598665
+      internalID: -485773198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA4_4
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 3099
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83743f81772c1f94baa4e09b2218dfa0
+      internalID: 1307489034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA4_5
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 3098
+        width: 60
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1cc26abc71ae2478efc6e5ae05788f
+      internalID: 46290187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackA4_6
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 3098
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1885eba3d4fc9124886edc125211e03f
+      internalID: 1539958541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2968
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c6981bc4d6784dbab2a29a496239d
+      internalID: 39694030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB1_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2968
+        width: 56
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f5492bb12418743a2f5ee97af8ccc8
+      internalID: -1023149957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB1_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 2968
+        width: 84
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c4e8903952c0a42bf81447dacf5141
+      internalID: -809429146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB1_4
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2968
+        width: 85
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d31c6e17d9d05364ebe897f97ac16190
+      internalID: 1311675557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB1_5
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2968
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c201e883e47d31941860948f509ec357
+      internalID: -944228278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB1_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 2968
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a597b9d24b2d35408ab8c5344d2ff41
+      internalID: -339017354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB1_7
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 2968
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00397e9d6c9adc84683acd32aa6c4fd2
+      internalID: 1424597570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB1_8
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2968
+        width: 65
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4dca43a24d225469379b0abbc78e4e
+      internalID: -1097264349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2838
+        width: 60
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df24657fab494c842830e85d727c6843
+      internalID: 719765606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 2838
+        width: 60
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8741df544b1c1448545e68cefa8808
+      internalID: -1630198141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_3
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 2838
+        width: 59
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c4b05a4faf5e24489fafaf268deba1
+      internalID: -626589967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_4
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 2838
+        width: 72
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668744af4c5435c4faf45715a7300463
+      internalID: -482071021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_5
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 2838
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf3c108906b5d649805941a46a6a088
+      internalID: -1138828425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2838
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6daf09077c6cc449f3546a0b9ff85b
+      internalID: 687039490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_7
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2838
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3334602bf71e1324db8a096723900d26
+      internalID: 2092222147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_8
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2838
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33c25cc46c1bbd46ac6d88da4597e34
+      internalID: -1262719687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_9
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 2839
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5882f6a08a5a8444d8eac0bccbd21849
+      internalID: -1415657148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_10
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2838
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1a769a6acd80e4390d02df6241cc63
+      internalID: -1731125924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_11
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 2838
+        width: 60
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f9c3ff2d9818204e803e912432cb073
+      internalID: 1750293423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackB2_12
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2838
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eadbeb2c22da954894b6db5f23c8b41
+      internalID: 1132220216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2708
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0af7c8c54cbb14dade66129cf7f147
+      internalID: -1478238468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2708
+        width: 51
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3454e57d2d2f4ab44b14da04b9dc6250
+      internalID: 1069589210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2708
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8139114c863746a4bb6eaf2426ae2820
+      internalID: 642073677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2708
+        width: 82
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e6114902d55344aa0b71d3f5d3ee9
+      internalID: -1811795978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_5
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2708
+        width: 83
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82218fdf0e5a7804689fd9f2dc78cfa2
+      internalID: -2147268037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_6
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2708
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baa1eb3efd7fb22478fe3f372182b487
+      internalID: 2019215065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_7
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2708
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a2f7f7b3e554844a3062ad07fa6468
+      internalID: -417687167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_8
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 2708
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc462e2441d6a94ea57bd69fa38a9ae
+      internalID: 59492401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC1_9
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 2708
+        width: 53
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1e3199e9b7f28c449e4ad870213d59a
+      internalID: -1292130017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC2_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2578
+        width: 57
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9918aee6c104aa0499b80b03c1a53440
+      internalID: -1035327760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC2_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2578
+        width: 68
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04b0745b5bb97d649a6d54731e452b73
+      internalID: -843611495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC2_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2578
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acb90c5a7f3b0648b712cd8d0f3a2c6
+      internalID: 102640411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC2_4
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 2578
+        width: 78
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43302543053476d458a92566ad934888
+      internalID: 1319020855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC2_5
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2578
+        width: 55
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7095b10f34f6e148a4ebbe850d26f04
+      internalID: -198419637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC2_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 2579
+        width: 68
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12d902e85f1b3f43adaa703f39e352b
+      internalID: 1908298980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC2_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2578
+        width: 86
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 936a036c75275ef49a27a2ad2f474475
+      internalID: 264612277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2448
+        width: 49
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef04431baba1364d82f0bf395214ec6
+      internalID: 1495653239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 2448
+        width: 44
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c3a359b1ab576488e7f4a04813e7a6
+      internalID: -6581257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_3
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2448
+        width: 56
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdcec8339345494abb414fb45267724
+      internalID: 1487997460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_4
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2448
+        width: 52
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06d867ec174c1f4f90a1448b664a2e2
+      internalID: 2119996093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 2448
+        width: 53
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8154e8267391d545900630d6fc309f6
+      internalID: 796163106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2448
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040503c2addd7424e83616c4c315c6ca
+      internalID: 902027408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 2448
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7117396e2cfa8604c8a82b498c8aacbf
+      internalID: -1782528563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_8
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 2448
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf49e5abcc3e9e40a6c81df08db06e3
+      internalID: 1079204636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_9
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2448
+        width: 58
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fa148f87741584b91da77cc685f6b9
+      internalID: -192365430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_10
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2448
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a4e862312705dd45b0ba0fa8fd26b9f
+      internalID: 999551271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_11
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 2448
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936cebff9ac2bf4799da6216bc883db
+      internalID: -1138198537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_AttackC3_12
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2448
+        width: 58
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457dd964cf222d64bb58d53373559ee1
+      internalID: -1157032912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitAir_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2318
+        width: 54
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a0e0990334bbd45b5e651477c6d9fb
+      internalID: -1050656606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitAir_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2318
+        width: 63
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68dd442a24a662b43b1b4ce00731bf52
+      internalID: 459315731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitAir_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2318
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d579ef53137f81a45a689c6255a0dc0a
+      internalID: 1931663804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitAir_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 2318
+        width: 79
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec3a6dfddf15d341866bacc05f04f60
+      internalID: 2099218489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitAir_5
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2318
+        width: 82
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1f0b4d15885dcd409fffc60d8cbb304
+      internalID: -931012293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitAir_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2318
+        width: 70
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974f90673cfafa840864d1be4b18ab19
+      internalID: -488197022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitAir_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 2318
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce4525fa00ffaa4c84d168053e84c5b
+      internalID: 1594733342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitAir_8
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2318
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8417ca90900e7f4b94ef18de1450b8c
+      internalID: -272240648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUnder1_
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 2318
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de8a50dfcbc17d448fa374aba825347
+      internalID: -871905244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUnder1_2
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2318
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 128175efcea1f604c80e7de6df52e056
+      internalID: 1907766960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUnder1_3
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 2317
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e24a10d9f75564186edcee7ae3917d
+      internalID: 177178905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUnder2_1
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2188
+        width: 57
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33505e56cea863348a2cdf5ab2188d43
+      internalID: -350914048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUnder2_2
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2188
+        width: 58
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492583492494a104cbba0d952760e8f9
+      internalID: -1881247624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUnder2_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2188
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a351eb89f733ae4cbaa346b9e7e59de
+      internalID: 512586555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2188
+        width: 57
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e884e8f21e85747439fe1a6b0225b658
+      internalID: 437210296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 2188
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc3cdcca7b3b674fa194e68857bf395
+      internalID: -250183596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_3
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 2188
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5410ce7d9dee28041825c3254d1bf88f
+      internalID: -603107215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2188
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b99ad0fdf26404fbe361eeaf0e0ad4
+      internalID: 1881912468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_5
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2188
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ec96bf1c3306394bb7c453cb98a814c
+      internalID: 236634561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_6
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2188
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4803a24e6f2d3324b897de92bc7b7c16
+      internalID: 484225750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_7
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2188
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5dbabc0b2fa63740bb88da01c541e38
+      internalID: -1004023611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_8
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 2188
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cc7d79b21f6354fb81f4c8d54bbf0b
+      internalID: 1655104834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitSpin_9
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 2188
+        width: 56
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f612ca7fbb56f04c81fc48020b51022
+      internalID: 1884141046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUpper_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2058
+        width: 78
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fa2f2f5566dd494dac68558a8efb4e8
+      internalID: 1625442591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUpper_2
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2058
+        width: 77
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab3000131f9cc74e88bbcdcd9390d68
+      internalID: 528082417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_HitUpper_3
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2058
+        width: 57
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db6dd1a9a8bf2b469465ecf6412d84c
+      internalID: -437040144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Crash_1
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2058
+        width: 55
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d150b097ca9cc724487778c2a12a793e
+      internalID: -490962485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Crash_2
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 2058
+        width: 57
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45aa113f80c923044a500ca4e18da6e1
+      internalID: 825506310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Crash_3
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 2058
+        width: 58
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b74a5c10df4c034c9ec973d1243c93c
+      internalID: 923376663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Standup_1
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2058
+        width: 100
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb23bbed66a37647b6685e57e2734db
+      internalID: -129581685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Standup_2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2058
+        width: 82
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504e45946b9f5c44182be4ecc0bbee7c
+      internalID: 1901114510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Standup_3
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 2058
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0829d9514f7c847b78149242415d0b
+      internalID: 1681947020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Standup_4
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2058
+        width: 60
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0bcfe7e17375340bbce47da1d81c2d
+      internalID: -674604628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1928
+        width: 75
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6daf4ef3cce919547abc8fba09681bc6
+      internalID: -1785672967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_2
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 1928
+        width: 67
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 935d41a093e1fba45a4be902dbb6c15c
+      internalID: 815201608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_3
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1928
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef32eadf1562db42b5e1f99dd013a6d
+      internalID: 509817286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_4
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1928
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce520d99a8d61ee49846d0adf35a8779
+      internalID: 615307444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1928
+        width: 101
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472d70ce8007c84fb9c53383e317a97
+      internalID: -653043843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1928
+        width: 105
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b6f07119306df4d8bbc05461c1f577
+      internalID: 1313705251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1928
+        width: 103
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8611d6145b5b097408bedc0b08b35c69
+      internalID: 1684956933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1928
+        width: 103
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2c24e9b13c1b7e4ca2d03ffba281314
+      internalID: 1068704265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_Down_9
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1929
+        width: 103
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc5afcc19f83549a0eb57903a7a213
+      internalID: -1810782787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardAir_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1798
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ce76f9502d7f747a42d35fca65702d
+      internalID: 185635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardAir_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1798
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905b21b05b0f7364b840db1d5eeea515
+      internalID: -1805214422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardBUnder_1
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1798
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 123a9c500321aaf43a516f54c2f8a3ce
+      internalID: -1569196098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardBUnder_2
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1798
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24ff9d44bf143647bcd3dc4c8a53d46
+      internalID: 1398553311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardBUpper_1
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1798
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354d4c53cb33de74b83056e3578a24d3
+      internalID: 629340097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardBUpper_2
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1798
+        width: 53
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af096977ecf886b47b82cf668592a264
+      internalID: 1395511399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardUnder_1
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1798
+        width: 58
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a6b2d15c4827745aca8e6bcc8a42eb
+      internalID: -2077996231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardUnder_2
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1798
+        width: 58
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbddf299887ce64f98112c91dda20c1
+      internalID: -669811215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardUpper_1
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1798
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680745fa9e05864698a48f226fd2d39
+      internalID: -67894116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_GuardUpper_2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1798
+        width: 48
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b225aa41d6649348b3094ac173cfa71
+      internalID: -648093923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1668
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30b2217598f80842935f9ab67f44cc8
+      internalID: 21951424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_2
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 1668
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba32f69832f1dac4f9d3de30c1294589
+      internalID: -1458037061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_3
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 1668
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8732c8647e5015e4b98fb4ddff65ea6e
+      internalID: 1132450871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_4
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1668
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae94dc5bb964a144a0184351d5f9dce
+      internalID: 1874252869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_5
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1668
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9af6280f5c7274386cf81d3e517edd
+      internalID: -270359943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1668
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b3a310793240c4c94ac0dd992304a0
+      internalID: -1047242399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1668
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c75c5272949a44c90d9d4fd9898a2c
+      internalID: -2132552975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_8
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1668
+        width: 55
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd0e83c070a5304089eedb9ff26610b
+      internalID: -811536303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_9
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1668
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd320a5c5ed5504b84b7dd30fd6f004
+      internalID: 1526769234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA1_10
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1668
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d36c23a3a2795e429d3208182599c7b
+      internalID: 2124767440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA2_1
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 1668
+        width: 62
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a610bf39a6e07c478bc5680de0fe266
+      internalID: 1415518478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA2_2
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1668
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d605dcd783280f47983c8a9f295cdf0
+      internalID: -946538618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotA2_3
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1668
+        width: 63
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ec967204d965547b8a238b1a549c61
+      internalID: 930910257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1538
+        width: 54
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3456120e89b7d4ca9a0a9db07ceb71
+      internalID: 429244937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_2
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1538
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abca6a661ed8124eb9deb5e4ed9992a
+      internalID: -846147356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1538
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfebbd97abeb6094787fa68523dadf77
+      internalID: -1787540302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1538
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501c5248b7328ed40b23b4cbb812beba
+      internalID: -1118351279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_5
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1538
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aaa7137486727479e451bf58d95252
+      internalID: -822048410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_6
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1538
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e4ed85b461f9647b75ca3e1989e8b7
+      internalID: -2089731772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_7
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1538
+        width: 78
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f499f1416bdbb74f99e75e45d93288b
+      internalID: 1090581967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1538
+        width: 77
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6b7bc4c54e8f446afae51b9707da4a
+      internalID: 1540705334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_9
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1538
+        width: 77
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1155b0f83fcec346b0b2094f467012e
+      internalID: -865714202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_10
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1538
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376e93ff26e913142a618f595f6ca6ac
+      internalID: 1949302530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_ShotC_11
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1538
+        width: 56
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78010d3085cffab4095c8c91fa3ed157
+      internalID: -1065152796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1408
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 481f94566d53ec447a3d7c4e479268b2
+      internalID: -1425479347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1408
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 580ecb992f4fb1a4188cd8e6c9f3df29
+      internalID: -175048062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1408
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fd221daa0a1bd4489c864c6a479025
+      internalID: -43217170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1408
+        width: 50
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898739692fade8d46839c29772378e10
+      internalID: -408744365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_5
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1408
+        width: 55
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16719afd043ae2945b3337177663a9f0
+      internalID: -40768981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_6
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1408
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a94399756be4e41b5c8773313e15d1
+      internalID: 869780427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_7
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1408
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde017f197fa3f3409539f835b502908
+      internalID: -1895260525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1408
+        width: 72
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bba39be44d35c4c81b18ee6d4b9b2a
+      internalID: -1050357117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_9
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 1408
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1212d124283d2de4eb7144e45141526c
+      internalID: -1655781460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellCall_10
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1408
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498a9b58303089046a65d08f0a09187d
+      internalID: 417601017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1278
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8325a75cf200f504c80f5193b9e6443c
+      internalID: -1895531840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1278
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3295696d72bdab949bfaad38203466dd
+      internalID: -540612089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1278
+        width: 53
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae44cd8f10b7ebe48bb1df199ff300ff
+      internalID: 1525712330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_4
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1278
+        width: 53
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04e90295f0188ff45a7421eb9c0ab534
+      internalID: -1495966937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 1278
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9666a81e810d0044abe9c1e52408f14
+      internalID: -112939328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_6
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1278
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e5f7e814050849bb4c8e8efb3632a
+      internalID: 1489324092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1278
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8fe5c8044a8bb4fb17f051891a5c24
+      internalID: -1490809410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_8
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1278
+        width: 78
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01a9ef4cdef53b46acc37f111eba0a6
+      internalID: 1660337914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellA_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1278
+        width: 59
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8737cc3545eb1438f375f4dd356e56
+      internalID: 576851467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1148
+        width: 52
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12cb7176d3ac3894088f021fa96fbc37
+      internalID: -400666742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1148
+        width: 51
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45069eb9dc58193468c30347349fef5b
+      internalID: 345011860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_3
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1148
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6c9c24ec7d2e84d878fc09a46d4d31
+      internalID: 189936584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_4
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1148
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1136702d5979444be83d2503db32c0
+      internalID: 1545103028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_5
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 1149
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0d356aa6ce2594aa7f03d7abf75f7b
+      internalID: -1038232660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1148
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74e60291c53dbc4e8b09dc929b2830c
+      internalID: 163509082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_7
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 1148
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93816ce099e6d542a80b8b759f72c48
+      internalID: 300458808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_8
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1148
+        width: 56
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3627b7c487e67c244982d751cc585c88
+      internalID: 766105591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellB_9
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 1148
+        width: 51
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b3bebaeeaf601408517eba032d1d19
+      internalID: -1676441992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellC_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1018
+        width: 71
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2d72f1850c56b7439334843c174708c
+      internalID: -818060001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellC_2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1018
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b37066dc180264d81a25d99fa46919
+      internalID: -480284254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellC_3
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1018
+        width: 64
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf877657e016a04da3be71f8579b4df
+      internalID: 1718717324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellC_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1018
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc234986f6f5e74da4b8aee0af3940e
+      internalID: 1478255794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellC_5
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1018
+        width: 59
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6513492b9a8fc24bb86c6fb80b6a209
+      internalID: 1350276488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellD_1
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1018
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c8fc076733dfa42bc92d4d3e193b7e
+      internalID: 605897585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellD_2
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1018
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332700d6a0600124bb4f65865ee510a7
+      internalID: 46885823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellD_3
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1018
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c64e6da8d3fff4ea02b317f1dd1b0a
+      internalID: -1432021595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellD_4
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1018
+        width: 58
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19553aec154d7d44f90d52ed37884469
+      internalID: -2071927468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellD_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1018
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc66f2721e693224fab6c16fa61295d6
+      internalID: -1666265772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellD_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1018
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49150a391e820a344a4e7410df2b82a6
+      internalID: 2047847228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 888
+        width: 74
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb173e5e57b9ecf458b644c98b55a3dd
+      internalID: -729996361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 888
+        width: 64
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4339e8c39cc90d41b34a056aed8ca6d
+      internalID: -1230483242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 888
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff502ade1c9fb42983b9bf6bc0468c
+      internalID: 1212606785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_4
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 888
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 649f2debed926994e9a39b18997d0728
+      internalID: 996091311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_5
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 888
+        width: 118
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26e4e7b622f5a04796b72af2503c72a
+      internalID: 1336934805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_6
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 888
+        width: 117
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a812a3f18e204479af0dbd6dff2453
+      internalID: 1253084945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_7
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 888
+        width: 107
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87c8ffc5d4665644862313df38c3aa1
+      internalID: -1327840612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_8
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 888
+        width: 101
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff3624305697064c8bb17da28b59580
+      internalID: 2117657046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_9
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 888
+        width: 98
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaec64aaa6e87641ae99429784772ed
+      internalID: -708434293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_10
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 888
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52069cf8ccf02c4e904433970fa9925
+      internalID: -1418738171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_11
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 888
+        width: 97
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d51ad7cdcbacd4a99679e3e3cbc6b7
+      internalID: 741381656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE1_12
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 888
+        width: 60
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf87e189d540f459f56a337a8c9a9a
+      internalID: 1557171394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 758
+        width: 49
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa4997e73a8dfad42a0a9f08068b4093
+      internalID: -2009385062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 758
+        width: 47
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224707a1b40c74441a00578ed6e79bcb
+      internalID: -90551807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_3
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 758
+        width: 48
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1191bb0fd11aa745819c11a77287048
+      internalID: -562680168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 758
+        width: 54
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883e188e389620047af16106f005e4f9
+      internalID: 1222517159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_5
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 758
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4abbecdf31da8c14e9cc71a98ed02277
+      internalID: 1884411305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_6
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 758
+        width: 111
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e3606edbc1a244e8363a6f56cccebf
+      internalID: -1222921879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 758
+        width: 59
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e208fe3665807489a6f83504e0aa64
+      internalID: -495997897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_8
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 758
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238776daa4aee04f84761cfc8cfba29
+      internalID: 2094463711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_9
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 758
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 708e022e60337bf479320c1fb72b28dc
+      internalID: 2018088237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_10
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 758
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f83b43beb223446817c672d3a0e30d
+      internalID: 25683078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_11
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 758
+        width: 53
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447d9afac6eb0074fb2191f1d25c3b32
+      internalID: 468789110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_12
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 758
+        width: 70
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae049b2fc03f394aa39b45a937e3b83
+      internalID: 2055545440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_13
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 758
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aebd6ce8b83764aa10c63bd38097e6
+      internalID: 1531595114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE2_14
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 758
+        width: 50
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecee85c7f110b5745b1e942fee695434
+      internalID: 319617294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 628
+        width: 60
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb757ededafe3854ebbc598340eea634
+      internalID: 1891613939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_2
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 628
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7010c1188dc6f848b48b5fae5077300
+      internalID: 384357512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_3
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 628
+        width: 67
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a6a4e84fdc2e72429dddcb3a6eaca21
+      internalID: 552097021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_4
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 628
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8625987996a0f534d9045a3291568c80
+      internalID: 894809577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_5
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 628
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc5430c7832a7a43acf658edadc7336
+      internalID: -1802105433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_6
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 629
+        width: 64
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb649d1a8c98ece40ba06648743955ea
+      internalID: 269939844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 628
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ec51f5e2fc47b4fbbb2cf5cce3f489
+      internalID: -1368817066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_8
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 628
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49f0d2f346c7904ea3815baeae3deff
+      internalID: 1751698744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 628
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0594fe7f489c92643ac159c8bbe7d84f
+      internalID: -941205568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_10
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 628
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33357efabb8098b4eaa1fdbf5f66f5a9
+      internalID: 39144223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_11
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 628
+        width: 62
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ae885542411bc41804820e28748252
+      internalID: 760660042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_12
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 628
+        width: 54
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86aecbfe161ed1f45931d7e0bf777ffc
+      internalID: -1947511301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_13
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 628
+        width: 52
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ff341879eb871439cc803579f6fe6b
+      internalID: -1168470403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellE3_14
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 628
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc96afbd80dbd449b428b6cd3a32cf0
+      internalID: 444573902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellAB_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 292
+        width: 82
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 805e4ca8d6f0d3a44998dda565adb2fd
+      internalID: 882176391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellAB_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 292
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec726ea8eeae81945877a185b1ad5413
+      internalID: -1756651390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellAB_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 292
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659ea80c8360d1047b43f10d3ec85361
+      internalID: 1481858982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellAB_4
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 292
+        width: 70
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd2f63483b005e246b2acd1af6d01bfc
+      internalID: -386160847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellI_1
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 292
+        width: 61
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe396ec500ca049b131ce1aec23806
+      internalID: -113707752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellI_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 292
+        width: 95
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f4fde8e52018c42ad4fb4388222a17
+      internalID: 1145785288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellI_3
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 292
+        width: 105
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bfded25cc597645bab7954e5fd4ef8
+      internalID: -427096945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellI_4
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 292
+        width: 93
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69fe2e97c94bb4244bca40245811e7f4
+      internalID: 1820741203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellI_5
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 292
+        width: 91
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4670115fac4f974e9aa23196264eaef
+      internalID: -1362982791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellI_6
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 292
+        width: 85
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09299a8ba5760d6498b5d58d36482825
+      internalID: -1597459604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellI_7
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 292
+        width: 60
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 302d12cb0da44d04987f2af1b4e55ec7
+      internalID: 1443454033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellI_8
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 292
+        width: 57
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0036d9d9245ed0544a20b17fefd18d0a
+      internalID: -1269719528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellJ_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 158
+        width: 64
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 015ef1c890fa8d04ea4a2b3d5704eb17
+      internalID: -652065574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellJ_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 159
+        width: 60
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e44324dec4cad47ba3dd32d8faace6
+      internalID: 1403377054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellJ_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 159
+        width: 67
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b250a2c1d21324a90c8bcd52c6dac3
+      internalID: -774521178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellJ_4
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 159
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4578e4ca73df247b6fc26fe7fbf8da
+      internalID: 1914076375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellJ_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 159
+        width: 60
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f6f26d96e69ef4987326b6dd01996b
+      internalID: -1184196988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellJ_6
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 159
+        width: 66
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c2f615664bff649a39190f4cd21801
+      internalID: -274935606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellJ_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 159
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be13a51c5e75954680a47163d547d95
+      internalID: -498174421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Yuyuko_SpellJ_8
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 159
+        width: 52
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc12cd533d509c4f9f66c460eaf8c93
+      internalID: 2082832546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b45d83647e78da46a99e904848c9792
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      5: -104952874
+      Yuyuko_AttackA1_1: -1186359420
+      Yuyuko_AttackA1_2: -197524582
+      Yuyuko_AttackA1_3: -1081273448
+      Yuyuko_AttackA1_4: 594540300
+      Yuyuko_AttackA1_5: -1266827273
+      Yuyuko_AttackA1_6: -1130762554
+      Yuyuko_AttackA1_7: 368446119
+      Yuyuko_AttackA1_8: 1961799061
+      Yuyuko_AttackA1_9: 108201221
+      Yuyuko_AttackA2_1: 1570159664
+      Yuyuko_AttackA2_2: 1361538320
+      Yuyuko_AttackA2_3: 1845393621
+      Yuyuko_AttackA2_4: 87866979
+      Yuyuko_AttackA2_5: 1355138998
+      Yuyuko_AttackA2_6: 1749671446
+      Yuyuko_AttackA2_7: -1397211463
+      Yuyuko_AttackA2_8: -473488834
+      Yuyuko_AttackA2_9: -444370462
+      Yuyuko_AttackA3_1: -154843569
+      Yuyuko_AttackA3_2: 381513905
+      Yuyuko_AttackA3_3: 100163966
+      Yuyuko_AttackA3_4: 1526099485
+      Yuyuko_AttackA3_5: -647307447
+      Yuyuko_AttackA3_6: 1198301907
+      Yuyuko_AttackA3_7: 1645702070
+      Yuyuko_AttackA4_1: -179166583
+      Yuyuko_AttackA4_2: 919632651
+      Yuyuko_AttackA4_3: -485773198
+      Yuyuko_AttackA4_4: 1307489034
+      Yuyuko_AttackA4_5: 46290187
+      Yuyuko_AttackA4_6: 1539958541
+      Yuyuko_AttackB1_1: 39694030
+      Yuyuko_AttackB1_2: -1023149957
+      Yuyuko_AttackB1_3: -809429146
+      Yuyuko_AttackB1_4: 1311675557
+      Yuyuko_AttackB1_5: -944228278
+      Yuyuko_AttackB1_6: -339017354
+      Yuyuko_AttackB1_7: 1424597570
+      Yuyuko_AttackB1_8: -1097264349
+      Yuyuko_AttackB2_1: 719765606
+      Yuyuko_AttackB2_10: -1731125924
+      Yuyuko_AttackB2_11: 1750293423
+      Yuyuko_AttackB2_12: 1132220216
+      Yuyuko_AttackB2_2: -1630198141
+      Yuyuko_AttackB2_3: -626589967
+      Yuyuko_AttackB2_4: -482071021
+      Yuyuko_AttackB2_5: -1138828425
+      Yuyuko_AttackB2_6: 687039490
+      Yuyuko_AttackB2_7: 2092222147
+      Yuyuko_AttackB2_8: -1262719687
+      Yuyuko_AttackB2_9: -1415657148
+      Yuyuko_AttackC1_1: -1478238468
+      Yuyuko_AttackC1_2: 1069589210
+      Yuyuko_AttackC1_3: 642073677
+      Yuyuko_AttackC1_4: -1811795978
+      Yuyuko_AttackC1_5: -2147268037
+      Yuyuko_AttackC1_6: 2019215065
+      Yuyuko_AttackC1_7: -417687167
+      Yuyuko_AttackC1_8: 59492401
+      Yuyuko_AttackC1_9: -1292130017
+      Yuyuko_AttackC2_1: -1035327760
+      Yuyuko_AttackC2_2: -843611495
+      Yuyuko_AttackC2_3: 102640411
+      Yuyuko_AttackC2_4: 1319020855
+      Yuyuko_AttackC2_5: -198419637
+      Yuyuko_AttackC2_6: 1908298980
+      Yuyuko_AttackC2_7: 264612277
+      Yuyuko_AttackC3_1: 1495653239
+      Yuyuko_AttackC3_10: 999551271
+      Yuyuko_AttackC3_11: -1138198537
+      Yuyuko_AttackC3_12: -1157032912
+      Yuyuko_AttackC3_2: -6581257
+      Yuyuko_AttackC3_3: 1487997460
+      Yuyuko_AttackC3_4: 2119996093
+      Yuyuko_AttackC3_5: 796163106
+      Yuyuko_AttackC3_6: 902027408
+      Yuyuko_AttackC3_7: -1782528563
+      Yuyuko_AttackC3_8: 1079204636
+      Yuyuko_AttackC3_9: -192365430
+      Yuyuko_Crash_1: -490962485
+      Yuyuko_Crash_2: 825506310
+      Yuyuko_Crash_3: 923376663
+      Yuyuko_DashBack_1: 1920119143
+      Yuyuko_DashBack_2: 1038432265
+      Yuyuko_DashBack_3: 831758606
+      Yuyuko_DashBack_4: 1410383237
+      Yuyuko_DashForwar_3: 2088478809
+      Yuyuko_DashForward_2: -38975882
+      Yuyuko_DashForward_3: 738216882
+      Yuyuko_Down_1: -1785672967
+      Yuyuko_Down_2: 815201608
+      Yuyuko_Down_3: 509817286
+      Yuyuko_Down_4: 615307444
+      Yuyuko_Down_5: -653043843
+      Yuyuko_Down_6: 1313705251
+      Yuyuko_Down_7: 1684956933
+      Yuyuko_Down_8: 1068704265
+      Yuyuko_Down_9: -1810782787
+      Yuyuko_GuardAir_1: 185635
+      Yuyuko_GuardAir_2: -1805214422
+      Yuyuko_GuardBUnder_1: -1569196098
+      Yuyuko_GuardBUnder_2: 1398553311
+      Yuyuko_GuardBUpper_1: 629340097
+      Yuyuko_GuardBUpper_2: 1395511399
+      Yuyuko_GuardUnder_1: -2077996231
+      Yuyuko_GuardUnder_2: -669811215
+      Yuyuko_GuardUpper_1: -67894116
+      Yuyuko_GuardUpper_2: -648093923
+      Yuyuko_HitAir_1: -1050656606
+      Yuyuko_HitAir_2: 459315731
+      Yuyuko_HitAir_3: 1931663804
+      Yuyuko_HitAir_4: 2099218489
+      Yuyuko_HitAir_5: -931012293
+      Yuyuko_HitAir_6: -488197022
+      Yuyuko_HitAir_7: 1594733342
+      Yuyuko_HitAir_8: -272240648
+      Yuyuko_HitSpin_1: 437210296
+      Yuyuko_HitSpin_2: -250183596
+      Yuyuko_HitSpin_3: -603107215
+      Yuyuko_HitSpin_4: 1881912468
+      Yuyuko_HitSpin_5: 236634561
+      Yuyuko_HitSpin_6: 484225750
+      Yuyuko_HitSpin_7: -1004023611
+      Yuyuko_HitSpin_8: 1655104834
+      Yuyuko_HitSpin_9: 1884141046
+      Yuyuko_HitUnder1_: -871905244
+      Yuyuko_HitUnder1_2: 1907766960
+      Yuyuko_HitUnder1_3: 177178905
+      Yuyuko_HitUnder2_1: -350914048
+      Yuyuko_HitUnder2_2: -1881247624
+      Yuyuko_HitUnder2_3: 512586555
+      Yuyuko_HitUpper_1: 1625442591
+      Yuyuko_HitUpper_2: 528082417
+      Yuyuko_HitUpper_3: -437040144
+      Yuyuko_Idle_1: 4416917254981227862
+      Yuyuko_Idle_10: -374357387
+      Yuyuko_Idle_2: 254637522
+      Yuyuko_Idle_3: -1350053987
+      Yuyuko_Idle_4: -117446284
+      Yuyuko_Idle_5: -104952874
+      Yuyuko_Idle_6: 1956880661
+      Yuyuko_Idle_7: -2010490448
+      Yuyuko_Idle_8: -998972313
+      Yuyuko_Idle_9: 470651078
+      Yuyuko_Jump_1: 466520098
+      Yuyuko_Jump_10: 502994564
+      Yuyuko_Jump_11: 1005208779
+      Yuyuko_Jump_12: 2056890249
+      Yuyuko_Jump_2: 130608607
+      Yuyuko_Jump_3: 127295258
+      Yuyuko_Jump_4: -340492971
+      Yuyuko_Jump_5: -1137942585
+      Yuyuko_Jump_6: 2078417310
+      Yuyuko_Jump_7: 2046617599
+      Yuyuko_Jump_8: 855495737
+      Yuyuko_Jump_9: -1783772069
+      Yuyuko_ShotA1_1: 21951424
+      Yuyuko_ShotA1_10: 2124767440
+      Yuyuko_ShotA1_2: -1458037061
+      Yuyuko_ShotA1_3: 1132450871
+      Yuyuko_ShotA1_4: 1874252869
+      Yuyuko_ShotA1_5: -270359943
+      Yuyuko_ShotA1_6: -1047242399
+      Yuyuko_ShotA1_7: -2132552975
+      Yuyuko_ShotA1_8: -811536303
+      Yuyuko_ShotA1_9: 1526769234
+      Yuyuko_ShotA2_1: 1415518478
+      Yuyuko_ShotA2_2: -946538618
+      Yuyuko_ShotA2_3: 930910257
+      Yuyuko_ShotC_1: 429244937
+      Yuyuko_ShotC_10: 1949302530
+      Yuyuko_ShotC_11: -1065152796
+      Yuyuko_ShotC_2: -846147356
+      Yuyuko_ShotC_3: -1787540302
+      Yuyuko_ShotC_4: -1118351279
+      Yuyuko_ShotC_5: -822048410
+      Yuyuko_ShotC_6: -2089731772
+      Yuyuko_ShotC_7: 1090581967
+      Yuyuko_ShotC_8: 1540705334
+      Yuyuko_ShotC_9: -865714202
+      Yuyuko_Sit_1: 896293043
+      Yuyuko_Sit_2: 1917851092
+      Yuyuko_Sit_3: -2017614352
+      Yuyuko_Sit_4: 1086381701
+      Yuyuko_Sit_5: -525256025
+      Yuyuko_Sit_6: 797269346
+      Yuyuko_Sit_7: -2118550883
+      Yuyuko_Sit_8: 1559601336
+      Yuyuko_SpellAB_1: 882176391
+      Yuyuko_SpellAB_2: -1756651390
+      Yuyuko_SpellAB_3: 1481858982
+      Yuyuko_SpellAB_4: -386160847
+      Yuyuko_SpellA_1: -1895531840
+      Yuyuko_SpellA_2: -540612089
+      Yuyuko_SpellA_3: 1525712330
+      Yuyuko_SpellA_4: -1495966937
+      Yuyuko_SpellA_5: -112939328
+      Yuyuko_SpellA_6: 1489324092
+      Yuyuko_SpellA_7: -1490809410
+      Yuyuko_SpellA_8: 1660337914
+      Yuyuko_SpellA_9: 576851467
+      Yuyuko_SpellB_1: -400666742
+      Yuyuko_SpellB_2: 345011860
+      Yuyuko_SpellB_3: 189936584
+      Yuyuko_SpellB_4: 1545103028
+      Yuyuko_SpellB_5: -1038232660
+      Yuyuko_SpellB_6: 163509082
+      Yuyuko_SpellB_7: 300458808
+      Yuyuko_SpellB_8: 766105591
+      Yuyuko_SpellB_9: -1676441992
+      Yuyuko_SpellC_1: -818060001
+      Yuyuko_SpellC_2: -480284254
+      Yuyuko_SpellC_3: 1718717324
+      Yuyuko_SpellC_4: 1478255794
+      Yuyuko_SpellC_5: 1350276488
+      Yuyuko_SpellCall_1: -1425479347
+      Yuyuko_SpellCall_10: 417601017
+      Yuyuko_SpellCall_2: -175048062
+      Yuyuko_SpellCall_3: -43217170
+      Yuyuko_SpellCall_4: -408744365
+      Yuyuko_SpellCall_5: -40768981
+      Yuyuko_SpellCall_6: 869780427
+      Yuyuko_SpellCall_7: -1895260525
+      Yuyuko_SpellCall_8: -1050357117
+      Yuyuko_SpellCall_9: -1655781460
+      Yuyuko_SpellD_1: 605897585
+      Yuyuko_SpellD_2: 46885823
+      Yuyuko_SpellD_3: -1432021595
+      Yuyuko_SpellD_4: -2071927468
+      Yuyuko_SpellD_5: -1666265772
+      Yuyuko_SpellD_6: 2047847228
+      Yuyuko_SpellE1_1: -729996361
+      Yuyuko_SpellE1_10: -1418738171
+      Yuyuko_SpellE1_11: 741381656
+      Yuyuko_SpellE1_12: 1557171394
+      Yuyuko_SpellE1_2: -1230483242
+      Yuyuko_SpellE1_3: 1212606785
+      Yuyuko_SpellE1_4: 996091311
+      Yuyuko_SpellE1_5: 1336934805
+      Yuyuko_SpellE1_6: 1253084945
+      Yuyuko_SpellE1_7: -1327840612
+      Yuyuko_SpellE1_8: 2117657046
+      Yuyuko_SpellE1_9: -708434293
+      Yuyuko_SpellE2_1: -2009385062
+      Yuyuko_SpellE2_10: 25683078
+      Yuyuko_SpellE2_11: 468789110
+      Yuyuko_SpellE2_12: 2055545440
+      Yuyuko_SpellE2_13: 1531595114
+      Yuyuko_SpellE2_14: 319617294
+      Yuyuko_SpellE2_2: -90551807
+      Yuyuko_SpellE2_3: -562680168
+      Yuyuko_SpellE2_4: 1222517159
+      Yuyuko_SpellE2_5: 1884411305
+      Yuyuko_SpellE2_6: -1222921879
+      Yuyuko_SpellE2_7: -495997897
+      Yuyuko_SpellE2_8: 2094463711
+      Yuyuko_SpellE2_9: 2018088237
+      Yuyuko_SpellE3_1: 1891613939
+      Yuyuko_SpellE3_10: 39144223
+      Yuyuko_SpellE3_11: 760660042
+      Yuyuko_SpellE3_12: -1947511301
+      Yuyuko_SpellE3_13: -1168470403
+      Yuyuko_SpellE3_14: 444573902
+      Yuyuko_SpellE3_2: 384357512
+      Yuyuko_SpellE3_3: 552097021
+      Yuyuko_SpellE3_4: 894809577
+      Yuyuko_SpellE3_5: -1802105433
+      Yuyuko_SpellE3_6: 269939844
+      Yuyuko_SpellE3_7: -1368817066
+      Yuyuko_SpellE3_8: 1751698744
+      Yuyuko_SpellE3_9: -941205568
+      Yuyuko_SpellI_1: -113707752
+      Yuyuko_SpellI_2: 1145785288
+      Yuyuko_SpellI_3: -427096945
+      Yuyuko_SpellI_4: 1820741203
+      Yuyuko_SpellI_5: -1362982791
+      Yuyuko_SpellI_6: -1597459604
+      Yuyuko_SpellI_7: 1443454033
+      Yuyuko_SpellI_8: -1269719528
+      Yuyuko_SpellJ_1: -652065574
+      Yuyuko_SpellJ_2: 1403377054
+      Yuyuko_SpellJ_3: -774521178
+      Yuyuko_SpellJ_4: 1914076375
+      Yuyuko_SpellJ_5: -1184196988
+      Yuyuko_SpellJ_6: -274935606
+      Yuyuko_SpellJ_7: -498174421
+      Yuyuko_SpellJ_8: 2082832546
+      Yuyuko_Standup_1: -129581685
+      Yuyuko_Standup_2: 1901114510
+      Yuyuko_Standup_3: 1681947020
+      Yuyuko_Standup_4: -674604628
+      Yuyuko_WalkBack_1: -1655149876
+      Yuyuko_WalkBack_2: -937260930
+      Yuyuko_WalkBack_3: -2046723430
+      Yuyuko_WalkBack_4: 1588413180
+      Yuyuko_WalkBack_5: -985225644
+      Yuyuko_WalkBack_6: 1741707347
+      Yuyuko_WalkBack_7: 839613600
+      Yuyuko_WalkBack_8: -732838743
+      Yuyuko_WalkForward_1: -1798571127
+      Yuyuko_WalkForward_2: -1824435678
+      Yuyuko_WalkForward_3: -1726205684
+      Yuyuko_WalkForward_4: -1242336105
+      Yuyuko_WalkForward_5: 1313787085
+      Yuyuko_WalkForward_6: -1817952182
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

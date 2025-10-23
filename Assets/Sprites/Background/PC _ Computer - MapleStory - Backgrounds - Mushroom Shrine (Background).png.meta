@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 7123e4714c6ae1a4282041e16af5b51c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5983395575453991844
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_0
+  - first:
+      213: -4659301229983548436
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_1
+  - first:
+      213: 291921551140965371
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_2
+  - first:
+      213: -8971377815681690880
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_3
+  - first:
+      213: -2901308866678705533
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_4
+  - first:
+      213: 2852015089261872866
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_5
+  - first:
+      213: 2643519467546634409
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_6
+  - first:
+      213: 8219304939827184898
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_7
+  - first:
+      213: 2220500323384010588
+    second: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1415
+        width: 957
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a34491139a490350800000000000000
+      internalID: 5983395575453991844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1029
+        width: 258
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb3a45a736d65fb0800000000000000
+      internalID: -4659301229983548436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_2
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1028
+        width: 367
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbc906aa1d1d0400800000000000000
+      internalID: 291921551140965371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1026
+        width: 188
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0031976b8634f7380800000000000000
+      internalID: -8971377815681690880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 922
+        width: 203
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382bce125fa7cb7d0800000000000000
+      internalID: -2901308866678705533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_5
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 580
+        width: 354
+        height: 384
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e60281fc94649720800000000000000
+      internalID: 2852015089261872866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_6
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 581
+        width: 363
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a862f323faafa420800000000000000
+      internalID: 2643519467546634409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 522
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20543078b46d01270800000000000000
+      internalID: 8219304939827184898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_8
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 16
+        width: 349
+        height: 351
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57a1f6874dc0de10800000000000000
+      internalID: 2220500323384010588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_0: 5983395575453991844
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_1: -4659301229983548436
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_2: 291921551140965371
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_3: -8971377815681690880
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_4: -2901308866678705533
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_5: 2852015089261872866
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_6: 2643519467546634409
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_7: 8219304939827184898
+      PC _ Computer - MapleStory - Backgrounds - Mushroom Shrine (Background)_8: 2220500323384010588
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

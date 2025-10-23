@@ -1,0 +1,1005 @@
+fileFormatVersion: 2
+guid: 16f8275e64542354889cce7b83d2a64d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3995573161137969329
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_0
+  - first:
+      213: -3413280425721384846
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_1
+  - first:
+      213: 2484480114024333290
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_2
+  - first:
+      213: -7517297843051667334
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_3
+  - first:
+      213: 3949266766540316958
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_4
+  - first:
+      213: 180509463108883094
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_5
+  - first:
+      213: -282216243670400970
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_6
+  - first:
+      213: 5747108247488455081
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_7
+  - first:
+      213: 6656143810541530004
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_8
+  - first:
+      213: -850506853067762740
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_9
+  - first:
+      213: -138962279045975052
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_10
+  - first:
+      213: -5791462789113815731
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_11
+  - first:
+      213: 5807360166164086091
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_12
+  - first:
+      213: -668832699267149830
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_13
+  - first:
+      213: 8007641601695315900
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_14
+  - first:
+      213: -8538500203927004958
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_15
+  - first:
+      213: 4957467172946038893
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_16
+  - first:
+      213: 8918614520454273919
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_17
+  - first:
+      213: 2369132949996997356
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_18
+  - first:
+      213: -473057260497146908
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_19
+  - first:
+      213: 5886707899811580274
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_20
+  - first:
+      213: 747133996466636564
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_21
+  - first:
+      213: -7849239016616879492
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_22
+  - first:
+      213: -4214310298711381948
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_23
+  - first:
+      213: 8951161189855117354
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_24
+  - first:
+      213: -2837702977246535771
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_25
+  - first:
+      213: 7655572102316300508
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_26
+  - first:
+      213: 5298559407564184029
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_27
+  - first:
+      213: 1005813481221330940
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_28
+  - first:
+      213: -8340415975864714522
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_29
+  - first:
+      213: -287926921043795848
+    second: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+      - HUD_30
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 795
+        width: 258
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: -129, y: -23.5}
+        - {x: 128, y: -23.5}
+        - {x: 128, y: 15.5}
+        - {x: -4, y: 1.5}
+        - {x: -103, y: 0.5}
+        - {x: -113, y: 13.5}
+        - {x: -129, y: 15.5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f476940216fdc88c0800000000000000
+      internalID: -3995573161137969329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 738
+        width: 240
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2703512898791a0d0800000000000000
+      internalID: -3413280425721384846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 726
+        width: 186
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef31f71085aa7220800000000000000
+      internalID: 2484480114024333290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_3
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 595
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a70681aa0713da790800000000000000
+      internalID: -7517297843051667334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_4
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 659
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1124e6333d9ec630800000000000000
+      internalID: 3949266766540316958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_5
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 555
+        width: 322
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692933b766c418200800000000000000
+      internalID: 180509463108883094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 546
+        width: 240
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6304e2652dd551cf0800000000000000
+      internalID: -282216243670400970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 331
+        width: 321
+        height: 131
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a164496084d1cf40800000000000000
+      internalID: 5747108247488455081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_8
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 459
+        width: 330
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b2e39a78f5f5c50800000000000000
+      internalID: 6656143810541530004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_9
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 394
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc35cd7f5846234f0800000000000000
+      internalID: -850506853067762740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_10
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 332
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f339402b8e421ef0800000000000000
+      internalID: -138962279045975052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 142
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d5afc174790afa0800000000000000
+      internalID: -5791462789113815731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 267
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4db6fa6d43e79050800000000000000
+      internalID: 5807360166164086091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_13
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 267
+        width: 37
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff04022434d7b6f0800000000000000
+      internalID: -668832699267149830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_14
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 265
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb770b54c9bd02f60800000000000000
+      internalID: 8007641601695315900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_15
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 267
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e8945ead47218980800000000000000
+      internalID: -8538500203927004958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_16
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 267
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60db15c0267cc440800000000000000
+      internalID: 4957467172946038893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_17
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 267
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b515c47a845cb70800000000000000
+      internalID: 8918614520454273919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_18
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 265
+        width: 48
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea8e36add9d0e020800000000000000
+      internalID: 2369132949996997356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_19
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 267
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebe5ad8dec5f69f0800000000000000
+      internalID: -473057260497146908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_20
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 270
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27941c055a9c1b150800000000000000
+      internalID: 5886707899811580274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_21
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 270
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417030b496a5e5a00800000000000000
+      internalID: 747133996466636564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_22
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 239
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a1a6193b6e11390800000000000000
+      internalID: -7849239016616879492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 237
+        width: 33
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448a9089c13c385c0800000000000000
+      internalID: -4214310298711381948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_24
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 239
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20c3984da9e83c70800000000000000
+      internalID: 8951161189855117354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 239
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5afd62f4d247e98d0800000000000000
+      internalID: -2837702977246535771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_26
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 191
+        width: 71
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd814fe144e0e3a60800000000000000
+      internalID: 7655572102316300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9da2d45b3488940800000000000000
+      internalID: 5298559407564184029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_28
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 46
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf71f7a380e55fd00800000000000000
+      internalID: 1005813481221330940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_29
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 49
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea379ffbd3e04c80800000000000000
+      internalID: -8340415975864714522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous
+        - HUD_30
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 40
+        width: 677
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870a9e5adf3110cf0800000000000000
+      internalID: -287926921043795848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 545d5c8b57fb8694285e98cdfa44325b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_0: -3995573161137969329
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_1: -3413280425721384846
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_10: -138962279045975052
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_11: -5791462789113815731
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_12: 5807360166164086091
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_13: -668832699267149830
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_14: 8007641601695315900
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_15: -8538500203927004958
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_16: 4957467172946038893
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_17: 8918614520454273919
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_18: 2369132949996997356
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_19: -473057260497146908
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_2: 2484480114024333290
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_20: 5886707899811580274
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_21: 747133996466636564
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_22: -7849239016616879492
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_23: -4214310298711381948
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_24: 8951161189855117354
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_25: -2837702977246535771
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_26: 7655572102316300508
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_27: 5298559407564184029
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_28: 1005813481221330940
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_29: -8340415975864714522
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_3: -7517297843051667334
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_30: -287926921043795848
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_4: 3949266766540316958
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_5: 180509463108883094
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_6: -282216243670400970
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_7: 5747108247488455081
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_8: 6656143810541530004
+      PC _ Computer - Koumajou Densetsu II_ Stranger's Requiem - Miscellaneous - HUD_9: -850506853067762740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 559a180b1777fdd4b80f699fdedbe089, type: 3}
+  m_Name: Reimu
+  m_EditorClassIdentifier: Assembly-CSharp::State
+  setupActions:
+  - {fileID: 11400000, guid: 8d078725f9181e449b94064440757f15, type: 2}
+  - {fileID: 11400000, guid: 86a7fd14d81bea24d9c753c7327148cb, type: 2}
+  - {fileID: 11400000, guid: ea7e1ef59081bb044b933ca865ddcb9c, type: 2}
+  actions: []
+  eventTriggeredActions: []
+  exitActions: []
+  transitions:
+  - decision: {fileID: 11400000, guid: 43e678a416b980c4b9101d476e18c650, type: 2}
+    trueState: {fileID: 11400000, guid: 55d51c72288404645866cdaf623edadf, type: 2}
+    falseState: {fileID: 11400000, guid: b3ae18cf286e777478386b1ad02d4653, type: 2}
+  - decision: {fileID: 11400000, guid: cb206dc47cc9e29449daa685134158c0, type: 2}
+    trueState: {fileID: 11400000, guid: ca3ea249e247bbb478fa11e3f1e9b229, type: 2}
+    falseState: {fileID: 11400000, guid: b3ae18cf286e777478386b1ad02d4653, type: 2}
+  - decision: {fileID: 11400000, guid: b0e5f6527e2439c48bf25b31e0bdc403, type: 2}
+    trueState: {fileID: 11400000, guid: b92a5559b1c4cae4498f98c08d871d4a, type: 2}
+    falseState: {fileID: 11400000, guid: b3ae18cf286e777478386b1ad02d4653, type: 2}
+  sceneGizmoColor: {r: 0.5, g: 0.5, b: 0.5, a: 1}

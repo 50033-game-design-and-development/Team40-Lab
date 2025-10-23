@@ -1,0 +1,426 @@
+fileFormatVersion: 2
+guid: 1be2242ce1461964b8261ef7601c668d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2349444595350256714
+    second: Youmu_attack_0
+  - first:
+      213: 8082842644143937511
+    second: Youmu_attack_1
+  - first:
+      213: -3951299319799006274
+    second: Youmu_attack_2
+  - first:
+      213: -2086525427169812283
+    second: Youmu_attack_3
+  - first:
+      213: 4779285256236692314
+    second: Youmu_attack_4
+  - first:
+      213: 1419354448690477133
+    second: Youmu_attack_5
+  - first:
+      213: -7183763081466763014
+    second: Youmu_attack_6
+  - first:
+      213: -8161621902378607115
+    second: Youmu_attack_7
+  - first:
+      213: 1083685964149276798
+    second: Youmu_attack_8
+  - first:
+      213: 5458852589338407557
+    second: Youmu_attack_9
+  - first:
+      213: 4620477871461467220
+    second: Youmu_attack_10
+  - first:
+      213: 8405112913795906595
+    second: Youmu_attack_11
+  - first:
+      213: 1965554054503109376
+    second: Youmu_attack_12
+  - first:
+      213: -2852377833421086590
+    second: Youmu_attack_13
+  - first:
+      213: -1624491767557175444
+    second: Youmu_attack_14
+  - first:
+      213: 2128314394943278736
+    second: Youmu_attack_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Youmu_attack_5
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 0
+        width: 68
+        height: 123
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.32520324}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48f09cd95f82b310800000000000000
+      internalID: 1419354448690477133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 78
+        height: 95
+      alignment: 9
+      pivot: {x: 0.3846154, y: 0.42105263}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8ab92e9852e4c90800000000000000
+      internalID: -7183763081466763014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_7
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 0
+        width: 87
+        height: 108
+      alignment: 9
+      pivot: {x: 0.22988506, y: 0.37037036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fddca53f181cbe80800000000000000
+      internalID: -8161621902378607115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_8
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 0
+        width: 98
+        height: 92
+      alignment: 9
+      pivot: {x: 0.20408164, y: 0.4347826}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e70c13d84a60a0f00800000000000000
+      internalID: 1083685964149276798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_9
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 0
+        width: 70
+        height: 80
+      alignment: 9
+      pivot: {x: 0.2857143, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582bcbcf18db1cb40800000000000000
+      internalID: 5458852589338407557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_10
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 0
+        width: 75
+        height: 73
+      alignment: 9
+      pivot: {x: 0.26666668, y: 0.5479452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454830dc42c3f1040800000000000000
+      internalID: 4620477871461467220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_11
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 74
+        height: 98
+      alignment: 9
+      pivot: {x: 0.27027026, y: 0.40816328}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32c7ad3b9a5f4a470800000000000000
+      internalID: 8405112913795906595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_12
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 0
+        width: 73
+        height: 101
+      alignment: 9
+      pivot: {x: 0.2739726, y: 0.3960396}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0039c75affc074b10800000000000000
+      internalID: 1965554054503109376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_13
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 79
+        height: 93
+      alignment: 9
+      pivot: {x: 0.25316456, y: 0.43010753}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 280ecb919715a68d0800000000000000
+      internalID: -2852377833421086590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_14
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 0
+        width: 78
+        height: 76
+      alignment: 9
+      pivot: {x: 0.25641027, y: 0.5263158}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6745362855a479e0800000000000000
+      internalID: -1624491767557175444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Youmu_attack_15
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 0
+        width: 68
+        height: 78
+      alignment: 9
+      pivot: {x: 0.29411766, y: 0.51282054}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ec1f87aaa498d10800000000000000
+      internalID: 2128314394943278736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c75a0f19f8baf0d46afb4bc28b19af4a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Youmu_attack_0: -2349444595350256714
+      Youmu_attack_1: 8082842644143937511
+      Youmu_attack_10: 4620477871461467220
+      Youmu_attack_11: 8405112913795906595
+      Youmu_attack_12: 1965554054503109376
+      Youmu_attack_13: -2852377833421086590
+      Youmu_attack_14: -1624491767557175444
+      Youmu_attack_15: 2128314394943278736
+      Youmu_attack_16: -788903763
+      Youmu_attack_17: -1617326428
+      Youmu_attack_18: -416571988
+      Youmu_attack_2: -3951299319799006274
+      Youmu_attack_3: -2086525427169812283
+      Youmu_attack_4: 4779285256236692314
+      Youmu_attack_5: 1419354448690477133
+      Youmu_attack_6: -7183763081466763014
+      Youmu_attack_7: -8161621902378607115
+      Youmu_attack_8: 1083685964149276798
+      Youmu_attack_9: 5458852589338407557
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 6927310e75fdca746bbe2fea70a1de44
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2557285522342248020
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_0
+  - first:
+      213: -1363289657947302565
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_1
+  - first:
+      213: 8768277813462747679
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_2
+  - first:
+      213: 6855297571848012672
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_3
+  - first:
+      213: 5641339833512700950
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_4
+  - first:
+      213: -5136422032566743792
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_5
+  - first:
+      213: -2181021993610939071
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_6
+  - first:
+      213: -5432313412531297575
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_7
+  - first:
+      213: -8857315736513540157
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_8
+  - first:
+      213: 3143489502604450987
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_9
+  - first:
+      213: -221692881144271621
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_10
+  - first:
+      213: 577811103390798111
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_11
+  - first:
+      213: -5376064918397523588
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_12
+  - first:
+      213: 2663331382141670924
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_13
+  - first:
+      213: 3311914910973006631
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_14
+  - first:
+      213: 664640642424270323
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_15
+  - first:
+      213: -5911627835797189015
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_16
+  - first:
+      213: -5551057001717649771
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_17
+  - first:
+      213: 1519693269575859617
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_18
+  - first:
+      213: -6434122255787962437
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_19
+  - first:
+      213: -6387776994345624837
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_20
+  - first:
+      213: -4261888883382213944
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_21
+  - first:
+      213: 529497471158604146
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_22
+  - first:
+      213: 1776085171551158962
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_23
+  - first:
+      213: 6878372496127840583
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_24
+  - first:
+      213: -6426175950321573689
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_25
+  - first:
+      213: -320927162427069750
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_26
+  - first:
+      213: 6058565997929509426
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_27
+  - first:
+      213: 6441010045640164212
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_28
+  - first:
+      213: 1871678620178229827
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_29
+  - first:
+      213: -283774281134061109
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_30
+  - first:
+      213: 3745219003408582096
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_31
+  - first:
+      213: 6858140954199231063
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_32
+  - first:
+      213: -6036118996774492455
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_33
+  - first:
+      213: -6694250472211107919
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_34
+  - first:
+      213: 1877120476806997636
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_35
+  - first:
+      213: 5994042338444094056
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_36
+  - first:
+      213: -3654968417973383195
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_37
+  - first:
+      213: 7714405202465388111
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_38
+  - first:
+      213: -7028505633093075578
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_39
+  - first:
+      213: 1006392619090204158
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_40
+  - first:
+      213: -7341866687878227689
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_41
+  - first:
+      213: -7306976771348706853
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_42
+  - first:
+      213: -4712526472321166521
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_43
+  - first:
+      213: 587278227802526346
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_44
+  - first:
+      213: 5687228101274120865
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_45
+  - first:
+      213: 5387926978126313576
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_46
+  - first:
+      213: -935851534787520086
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_47
+  - first:
+      213: 8139907244126983987
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_48
+  - first:
+      213: -1919560224273684470
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_49
+  - first:
+      213: 4663249346017962073
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_50
+  - first:
+      213: 6461740207418108081
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_51
+  - first:
+      213: 978361599648522971
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_52
+  - first:
+      213: -5610162094861985230
+    second: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 181
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e757c22ad4d7320800000000000000
+      internalID: 2557285522342248020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 181
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b555614774f941de0800000000000000
+      internalID: -1363289657947302565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_2
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 181
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ac26b073e2fa970800000000000000
+      internalID: 8768277813462747679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_3
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 231
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 083499712d8e22f50800000000000000
+      internalID: 6855297571848012672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_4
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 228
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c29c180b01a4e40800000000000000
+      internalID: 5641339833512700950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_5
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 228
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d8e541063c7b8b0800000000000000
+      internalID: -5136422032566743792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_6
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 231
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14571876d047bb1e0800000000000000
+      internalID: -2181021993610939071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_7
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 231
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d26b71abbb8c94b0800000000000000
+      internalID: -5432313412531297575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_8
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 231
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf02a5044e741580800000000000000
+      internalID: -8857315736513540157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_9
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 228
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac58e53c0bef9b20800000000000000
+      internalID: 3143489502604450987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_10
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 231
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca92acf736cecf0800000000000000
+      internalID: -221692881144271621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_11
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 231
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1192ec132cc40800800000000000000
+      internalID: 577811103390798111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_12
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 228
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79e979b0716465b0800000000000000
+      internalID: -5376064918397523588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_13
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 231
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0654b7f7cd06f420800000000000000
+      internalID: 2663331382141670924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_14
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 231
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7239dd2701946fd20800000000000000
+      internalID: 3311914910973006631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_15
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 231
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd6cf29427493900800000000000000
+      internalID: 664640642424270323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_16
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 215
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4ff2fdcda5fda0800000000000000
+      internalID: -5911627835797189015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_17
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 215
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eaca4511fa6f2b0800000000000000
+      internalID: -5551057001717649771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_18
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 215
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1adfe9c1af8071510800000000000000
+      internalID: 1519693269575859617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_19
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 215
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfc256d5e765b6a0800000000000000
+      internalID: -6434122255787962437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_20
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 215
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfadd93eaae0a57a0800000000000000
+      internalID: -6387776994345624837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_21
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 212
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c221d914aabad4c0800000000000000
+      internalID: -4261888883382213944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_22
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 212
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27150e50527295700800000000000000
+      internalID: 529497471158604146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_23
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 215
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b2452dad0ce5a810800000000000000
+      internalID: 1776085171551158962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_24
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 215
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74154809753e47f50800000000000000
+      internalID: 6878372496127840583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_25
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 215
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0ace04503a1d6a0800000000000000
+      internalID: -6426175950321573689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_26
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 215
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acaa2c43276db8bf0800000000000000
+      internalID: -320927162427069750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_27
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 215
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23239daeca9541450800000000000000
+      internalID: 6058565997929509426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_28
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 181
+        width: 45
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473ca15b280136950800000000000000
+      internalID: 6441010045640164212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_29
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 181
+        width: 59
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34aaa69d9c989f910800000000000000
+      internalID: 1871678620178229827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_30
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 199
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc9cc987bc4df0cf0800000000000000
+      internalID: -283774281134061109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_31
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 199
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d5063037d0b9f330800000000000000
+      internalID: 3745219003408582096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_32
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 196
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75a8a92acd20d2f50800000000000000
+      internalID: 6858140954199231063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_33
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 199
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6e44fc0c56b3ca0800000000000000
+      internalID: -6036118996774492455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_34
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 199
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfad56c9ae3913a0800000000000000
+      internalID: -6694250472211107919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_35
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 199
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48661b4d02fdc0a10800000000000000
+      internalID: 1877120476806997636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 199
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86aac9fbfbd1f2350800000000000000
+      internalID: 5994042338444094056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_37
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 199
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efcc65b691f64dc0800000000000000
+      internalID: -3654968417973383195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_38
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 141
+        width: 92
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46ff52b8a21f0b60800000000000000
+      internalID: 7714405202465388111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_39
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 141
+        width: 92
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68db7a58d5bb57e90800000000000000
+      internalID: -7028505633093075578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_40
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 141
+        width: 92
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5527541cc67fd00800000000000000
+      internalID: 1006392619090204158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_41
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 133
+        width: 92
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 1, z: 1, w: 1}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7199eb075237c1a90800000000000000
+      internalID: -7341866687878227689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_42
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 111
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd9cab92757689a90800000000000000
+      internalID: -7306976771348706853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_43
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 141
+        width: 92
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7431ca6342eb99eb0800000000000000
+      internalID: -4712526472321166521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_44
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 41
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a829d78cf6e662800800000000000000
+      internalID: 587278227802526346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_45
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 41
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2301d63d71dee40800000000000000
+      internalID: 5687228101274120865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 41
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86876f64a03c5ca40800000000000000
+      internalID: 5387926978126313576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_47
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 41
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa95c7accff2303f0800000000000000
+      internalID: -935851534787520086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_48
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 41
+        width: 24
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33751dee282c6f070800000000000000
+      internalID: 8139907244126983987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_49
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 41
+        width: 26
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08a233752a5c55e0800000000000000
+      internalID: -1919560224273684470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_50
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 4
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9582970c29037b040800000000000000
+      internalID: 4663249346017962073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_51
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 4
+        width: 92
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b8e30e9b76bca950800000000000000
+      internalID: 6461740207418108081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_52
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 4
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2eee8f0b6d39d00800000000000000
+      internalID: 978361599648522971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4
+        width: 92
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ad3637c43b422b0800000000000000
+      internalID: -5610162094861985230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5b27d029193b0a44698c917d40ed0be0
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_0: 2557285522342248020
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_1: -1363289657947302565
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_10: -221692881144271621
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_11: 577811103390798111
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_12: -5376064918397523588
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_13: 2663331382141670924
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_14: 3311914910973006631
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_15: 664640642424270323
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_16: -5911627835797189015
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_17: -5551057001717649771
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_18: 1519693269575859617
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_19: -6434122255787962437
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_2: 8768277813462747679
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_20: -6387776994345624837
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_21: -4261888883382213944
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_22: 529497471158604146
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_23: 1776085171551158962
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_24: 6878372496127840583
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_25: -6426175950321573689
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_26: -320927162427069750
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_27: 6058565997929509426
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_28: 6441010045640164212
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_29: 1871678620178229827
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_3: 6855297571848012672
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_30: -283774281134061109
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_31: 3745219003408582096
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_32: 6858140954199231063
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_33: -6036118996774492455
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_34: -6694250472211107919
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_35: 1877120476806997636
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_36: 5994042338444094056
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_37: -3654968417973383195
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_38: 7714405202465388111
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_39: -7028505633093075578
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_4: 5641339833512700950
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_40: 1006392619090204158
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_41: -7341866687878227689
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_42: -7306976771348706853
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_43: -4712526472321166521
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_44: 587278227802526346
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_45: 5687228101274120865
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_46: 5387926978126313576
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_47: -935851534787520086
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_48: 8139907244126983987
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_49: -1919560224273684470
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_5: -5136422032566743792
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_50: 4663249346017962073
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_51: 6461740207418108081
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_52: 978361599648522971
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_53: -5610162094861985230
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_6: -2181021993610939071
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_7: -5432313412531297575
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_8: -8857315736513540157
+      PC _ Computer - MapleStory - Background Tilesets - Omega Sector (Tiles)_9: 3143489502604450987
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

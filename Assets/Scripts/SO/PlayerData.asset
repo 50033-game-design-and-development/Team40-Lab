@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc29b727b7e722940a478373c5e8389b, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: Assembly-CSharp::PlayerData
+  maxHealth: 10
+  maxMana: 5
+  manaGainRate: 1
+  walkSpeed: 5
+  dropSpeed: 10
+  baseDamage: 5
+  hitForce: 5
+  attackCooldown: 0.5
+  manaSpellCost: 1
+  manaGain: 1
+  projectilePrefab: {fileID: 692821443563537776, guid: 2c13df1aa9f9c5b419a982bf94b834da, type: 3}
+  jumpForce: 10
+  groundCheckSize: {x: 0.5, y: 0.04}
+  groundLayer:
+    serializedVersion: 2
+    m_Bits: 8
+  coyoteTime: 0.2
+  jumpBufferTime: 0.2
+  canDoubleJump: 1
+  doubleJumpForce: 10
+  ammoPoolSize: 5
+  ammoCooldown: 0.5
+  maxAmmo: 5
+  reloadTime: 5
+  dashForce: 20
+  dashDuration: 0.2
+  dashCooldown: 0.2
+  disableGravityDuringDash: 1
+  knockbackResistance: 0
