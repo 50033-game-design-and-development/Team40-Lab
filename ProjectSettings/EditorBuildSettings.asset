@@ -8,6 +8,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Week 1.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/Week 5-1.unity
+    guid: e9b01015412664544b3143869199195c
+  - enabled: 1
+    path: Assets/Scenes/Week 5-2.unity
+    guid: 344fbac15699b5541a133e34cd4bb619
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
